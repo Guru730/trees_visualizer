@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trees_visualizer/static/css/main.4da65c1b.chunk.css",
+    "main.js": "/trees_visualizer/static/js/main.b5747e52.chunk.js",
+    "main.js.map": "/trees_visualizer/static/js/main.b5747e52.chunk.js.map",
+    "runtime-main.js": "/trees_visualizer/static/js/runtime-main.990277a4.js",
+    "runtime-main.js.map": "/trees_visualizer/static/js/runtime-main.990277a4.js.map",
+    "static/js/2.c434d219.chunk.js": "/trees_visualizer/static/js/2.c434d219.chunk.js",
+    "static/js/2.c434d219.chunk.js.map": "/trees_visualizer/static/js/2.c434d219.chunk.js.map",
+    "index.html": "/trees_visualizer/index.html",
+    "static/css/main.4da65c1b.chunk.css.map": "/trees_visualizer/static/css/main.4da65c1b.chunk.css.map",
+    "static/js/2.c434d219.chunk.js.LICENSE.txt": "/trees_visualizer/static/js/2.c434d219.chunk.js.LICENSE.txt",
+    "static/media/first.fde34b19.svg": "/trees_visualizer/static/media/first.fde34b19.svg",
+    "static/media/last.669ffbe1.svg": "/trees_visualizer/static/media/last.669ffbe1.svg",
+    "static/media/logo.d604f430.svg": "/trees_visualizer/static/media/logo.d604f430.svg",
+    "static/media/next.cd2a56f4.svg": "/trees_visualizer/static/media/next.cd2a56f4.svg",
+    "static/media/previous.e6b3ab3d.svg": "/trees_visualizer/static/media/previous.e6b3ab3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.990277a4.js",
+    "static/js/2.c434d219.chunk.js",
+    "static/css/main.4da65c1b.chunk.css",
+    "static/js/main.b5747e52.chunk.js"
+  ]
+}
